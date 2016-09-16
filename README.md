@@ -1,6 +1,6 @@
 # Projects
 
-#Student Application Portal for CodeRGV Boot
+##Student Application Portal for CodeRGV Boot
 
 * Online application portal with secure login and unique user id's for registered applicants and administrators.
 * Local database with easy transfer to cloud database that collects and stores profiles, application and admin data.
@@ -18,7 +18,7 @@ GitHub repository:
 https://github.com/riccochapa/student-application
 
 
-#Star Wars Demo Site
+##Star Wars Demo Site
 
 Used to build application:
 ES2015+ JavaScript, Express.js, Node.js, Bootstrap, EJS, HTML, JQuery, CSS3
@@ -29,7 +29,7 @@ https://pure-ravine-21038.herokuapp.com
 GitHub repository:
 https://github.com/riccochapa/star-wars-website
 
-#Watson Twitter Bootstrap
+##Watson Twitter Bootstrap
 
 Watson is used via the Alchemy API to generate a value for fear, disgust, anger, joy or sadness reflected via various online sources that a Twitter bot will tweet when queried
 
