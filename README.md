@@ -29,7 +29,7 @@ https://pure-ravine-21038.herokuapp.com
 GitHub repository:
 https://github.com/riccochapa/star-wars-website
 
-##Watson Twitter Bootstrap
+##Watson Twitter Bot
 
 Watson is used via the Alchemy API to generate a value for fear, disgust, anger, joy or sadness reflected via various online sources that a Twitter bot will tweet when queried
 
