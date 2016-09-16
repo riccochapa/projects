@@ -12,7 +12,7 @@ Used to build application:
 ES2015+ JavaScript, Express.js, Node.js, Passport.js, MongoDB, Mongoose, Bootstrap, Jade, HTML, JQuery, CSS3
 
 Deployed on OpenShift:
-http://portal-riccospace.rhcloud.com/application
+http://portal-riccospace.rhcloud.com
 
 GitHub repository:
 https://github.com/riccochapa/student-application
