@@ -13,6 +13,7 @@ ES2015+ JavaScript, Express.js, Node.js, Passport.js, MongoDB, Mongoose, Bootstr
 
 Deployed on OpenShift:
 http://portal-riccospace.rhcloud.com/application
+
 GitHub repository:
 https://github.com/riccochapa/student-application
 
@@ -24,6 +25,7 @@ ES2015+ JavaScript, Express.js, Node.js, Bootstrap, EJS, HTML, JQuery, CSS3
 
 Deployed on Heroku:
 https://pure-ravine-21038.herokuapp.com
+
 GitHub repository:
 https://github.com/riccochapa/star-wars-website
 
@@ -37,5 +39,6 @@ ES2015+ JavaScript, Node.js, Twitter API, IBM Watson API, Alchemy API
 Deployed on Twitter:
 https://twitter.com/thesocialstate
 * Currently not deployed due to cost associated with IBM API, but can be deployed on request.
+
 GitHub repository:
 https://github.com/riccochapa/alchemy-twitter-bot
